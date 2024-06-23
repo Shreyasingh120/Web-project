@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .product-card h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .product-card p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  a {
+    color: #00f;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
